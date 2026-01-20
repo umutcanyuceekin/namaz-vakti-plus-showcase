@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="assets/app_icon.png" width="120" alt="Namaz Vakti+ Logo" />
+
   
   # Namaz Vakti+ (Plus)
   ### Advanced Islamic Focus & Prayer Time Application
@@ -82,21 +82,6 @@ This project demonstrates expertise in:
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <i>Screenshots coming soon...</i>
-</p>
-
-<p align="center">
-  <img src="assets/screenshots/dashboard.png" width="200" alt="Dashboard" />
-  <img src="assets/screenshots/qibla.png" width="200" alt="Qibla Finder" />
-  <img src="assets/screenshots/quran.png" width="200" alt="Quran Reader" />
-  <img src="assets/screenshots/settings.png" width="200" alt="Settings" />
-</p>
-
----
-
 ## 📊 Technical Highlights
 
 ```
@@ -123,9 +108,7 @@ This project demonstrates expertise in:
 ## 👨‍💻 Developer
 
 **UCY Digital**
-
-- 🌐 Website: [ucydigital.com](https://ucydigital.com)
-- 📧 Contact: info@ucydigital.com
+- 📧 Contact: umutcanyuceekin@icloud.com
 - 💼 LinkedIn: [Umut Can Yüceekin](https://linkedin.com/in/umutcanyuceekin)
 
 ---
