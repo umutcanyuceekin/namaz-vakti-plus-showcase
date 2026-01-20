@@ -109,7 +109,7 @@ This project demonstrates expertise in:
 
 **UCY Digital**
 - 📧 Contact: umutcanyuceekin@icloud.com
-- 💼 LinkedIn: [Umut Can Yüceekin](https://linkedin.com/in/umutcanyuceekin)
+- 💼 LinkedIn: [Umut Can Yüceekin](https://www.linkedin.com/in/umutcany%C3%BCceekin/)
 
 ---
 
