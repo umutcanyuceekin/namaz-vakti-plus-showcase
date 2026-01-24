@@ -64,7 +64,7 @@
 | 💎 **Premium Subscription** | RevenueCat-powered in-app purchases with lifetime options |
 | 🌙 **Islamic Calendar** | Hijri date display with religious event reminders |
 | ⚖️ **Zakat Calculator** | Real-time gold price integration for accurate calculations |
-| 🕋 **Mosque Finder** | Google Maps integration to locate nearby mosques |
+| 🕋 **Mosque Finder** | Google Maps integration to locate nearby mosques | (nxt)
 | ☁️ **Weather Integration** | Prayer-time contextual weather forecasts |
 
 ---
